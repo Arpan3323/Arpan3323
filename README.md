@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Arpan3323
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Deep Learning and AI
+- 🌱 I’m currently learning Operating Systems and trying to rebuild OS 161 with a modified Kernel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Arpan3323/Arpan3323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: azs0239@auburn.edu
