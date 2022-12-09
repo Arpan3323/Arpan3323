@@ -1,5 +1,5 @@
 
-<h1 align="center" >👋 Hi, I'm <a href="https://www.linkedin.com/in/arpan-srivastava/" target="_blank"> Arpan Srivastava!</a>
+<h1 align="center" >👋 Hi, I'm <a href="https://www.linkedin.com/in/arpan-srivastava/" target="_blank"> Arpan Srivastava!</a></h1>
 ### About Me 🙂
 I'm currently pursuing a Bachelor's degree in Computer Science
 
