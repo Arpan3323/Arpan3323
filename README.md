@@ -9,7 +9,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science
 
   ![Arpan's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arpan3323&title_color=2f81ed&bg_color=ffffff&text_color=2f81ed)
   
- <a href=#><img src="contributions.svg"></a>
+ 
 
 <p align="center"> 
   Visitor count<br>
