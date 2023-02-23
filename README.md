@@ -13,6 +13,6 @@ I'm currently pursuing a Bachelor's degree in Computer Science
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Arpan3323/count.svg" />
 </p>
 
