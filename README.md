@@ -1,7 +1,5 @@
 
 <h1 align="center" >👋 Hi, I'm <a href="https://www.linkedin.com/in/arpan-srivastava/" target="_blank"> Arpan Srivastava!</a></h1>
-<h3>About Me 🙂</h3>
-I'm currently pursuing a Bachelor's degree in Computer Science
 
 - 💻 I'm a Computer Science major at Auburn University
 - :briefcase: In the past I have worked as a Software Engineer and Data Analyst Co-op at Rheem Manufacturing Company - Montgomery
