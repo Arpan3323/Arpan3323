@@ -2,7 +2,6 @@
 <h1 align="center" >👋 Hi, I'm <a href="https://www.linkedin.com/in/arpan-srivastava/" target="_blank"> Arpan Srivastava!</a></h1>
 
 - 📫 How to reach me: azs0239@auburn.edu
-- 🌐 If you'd like to know more about me, [Check out my personal website](https://arpan3323.github.io/)
 
 
 
